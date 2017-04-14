@@ -1,0 +1,25 @@
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjFormClasse27757\bin\Debug\prjFormClasse27757.exe
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjFormClasse27757\bin\Debug\prjFormClasse27757.pdb
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.frmFormClasse27757.resources
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.Properties.Resources.resources
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.csproj.GenerateResource.Cache
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.exe
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.frmFormClasse27757.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.Properties.Resources.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.csproj.GenerateResource.Cache
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.exe
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\bin\Debug\prjFormClasse27757.exe
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\bin\Debug\prjFormClasse27757.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.csprojResolveAssemblyReference.cache
+U:\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.exe
+U:\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.pdb
+U:\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.csprojResolveAssemblyReference.cache
+U:\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.frmFormClasse27757.resources
+U:\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.Properties.Resources.resources
+U:\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.csproj.GenerateResource.Cache
+U:\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\bin\Debug\prjFormClasse27757.exe
+U:\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\bin\Debug\prjFormClasse27757.pdb
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.exe
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Debug\prjFormClasse27757.pdb

@@ -1,0 +1,14 @@
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjFormClasse27757\obj\x86\Release\prjFormClasse27757.frmFormClasse27757.resources
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjFormClasse27757\obj\x86\Release\prjFormClasse27757.Properties.Resources.resources
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjFormClasse27757\obj\x86\Release\prjFormClasse27757.csproj.GenerateResource.Cache
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjFormClasse27757\bin\Release\prjFormClasse27757.exe
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjFormClasse27757\bin\Release\prjFormClasse27757.pdb
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjFormClasse27757\obj\x86\Release\prjFormClasse27757.exe
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjFormClasse27757\obj\x86\Release\prjFormClasse27757.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Release\prjFormClasse27757.exe
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Release\prjFormClasse27757.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Release\prjFormClasse27757.frmFormClasse27757.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Release\prjFormClasse27757.Properties.Resources.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\obj\x86\Release\prjFormClasse27757.csproj.GenerateResource.Cache
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\bin\Release\prjFormClasse27757.exe
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjCPF\prjFormClasse27757\prjFormClasse27757\bin\Release\prjFormClasse27757.pdb
